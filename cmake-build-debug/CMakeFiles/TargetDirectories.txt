@@ -1,0 +1,3 @@
+/Users/muhun/CLionProjects/struct_union_shapes/cmake-build-debug/CMakeFiles/struct_union_shapes.dir
+/Users/muhun/CLionProjects/struct_union_shapes/cmake-build-debug/CMakeFiles/edit_cache.dir
+/Users/muhun/CLionProjects/struct_union_shapes/cmake-build-debug/CMakeFiles/rebuild_cache.dir

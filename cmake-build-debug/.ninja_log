@@ -1,0 +1,9 @@
+# ninja log v6
+1	150	1732241530185890036	CMakeFiles/struct_union_shapes.dir/main.c.o	f735bf6f87e9ae7e
+150	238	1732241530335093978	struct_union_shapes	46d505a3ddb1fd67
+1	38	1732241617700185471	CMakeFiles/struct_union_shapes.dir/main.c.o	f735bf6f87e9ae7e
+38	68	1732241617737134274	struct_union_shapes	46d505a3ddb1fd67
+1	140	1732241714035786286	CMakeFiles/struct_union_shapes.dir/main.c.o	f735bf6f87e9ae7e
+140	223	1732241714174833469	struct_union_shapes	46d505a3ddb1fd67
+2	38	1732241774232360670	CMakeFiles/struct_union_shapes.dir/main.c.o	f735bf6f87e9ae7e
+38	70	1732241774268543547	struct_union_shapes	46d505a3ddb1fd67
